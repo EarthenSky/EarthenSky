@@ -1,4 +1,13 @@
 ### Hiya — ᕕ(ᐛ)ᕗ
-I have an interest in all things computer science, which as of recently consists of: *search algorithms, raytracing, emulation, programming languages, designing synthesizers, learning new programming languages, and developing games*.
 
-I’m currently working on way too many projects to count, but feel free to hmu if you want to help or if something here doesn't make sense!
+I'm [Gabe](https://gebdev.net), and I'm interested in understanding all things computer science! 
+
+My biggest interests are: 
+<ins>search algorithms</ins> ||
+<ins>raytracing & 3d reconstruction</ins> ||
+<ins>programming languages, program synthesis, & program analysis</ins> ||
+<ins>hard problems in math & computer science</ins> ||
+<ins>game development & emulation</ins> ||
+and finally <ins>audio synthesizers</ins>.
+
+I’m always working on too many small projects, but I'd love to chat about anything somewhat related!
