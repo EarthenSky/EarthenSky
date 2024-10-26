@@ -10,4 +10,4 @@ My biggest interests are:
 <ins>game development & emulation</ins> ||
 and finally <ins>audio synthesizers</ins>.
 
-I’m always working on too many small projects, but I'd love to chat about anything somewhat related!
+I’m always working on too many small projects, but I'd love to chat about anything somewhat related! Feel free to make an issue in [this repo](https://github.com/EarthenSky/EarthenSky/issues) and say hi :)
